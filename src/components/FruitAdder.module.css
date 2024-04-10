@@ -1,0 +1,7 @@
+/* FruitAdder.module.css */
+.wrapper {
+  width: 80%;
+  display: inline-flex;
+  justify-content: space-between;
+  padding-top: 0.5rem;
+}
